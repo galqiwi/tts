@@ -1,6 +1,6 @@
 #!/usr/bin/env -S uv run
 # /// script
-# requires-python = ">=3.8"
+# requires-python = ">=3.9,<3.10"
 # dependencies = [
 #     "piper-tts",
 # ]
